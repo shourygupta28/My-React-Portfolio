@@ -2,7 +2,7 @@
   "private": true,
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://shourygupta28.github.io/My-React-Portfolio",
+  "homepage": "https://shourygupta28.github.io/My-React-Portfolio/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
