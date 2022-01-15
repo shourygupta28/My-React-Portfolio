@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Shourya Gupta Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://shourygupta28.github.io/My-React-Portfolio/",
   },
 };
 
@@ -591,8 +591,7 @@ const experience = {
         {
           title: "Microsoft Student Chapter Member",
           company: "MLSC TIET",
-          company_url:
-            "https://mlsctiet.co.in/",
+          company_url: "https://mlsctiet.co.in/",
           logo_path: "mlsc_logo.png",
           duration: "September 2019 - May 2020",
           location: "Thapar University, Patiala, Punjab",
@@ -648,8 +647,7 @@ const contactPageData = {
   // },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Mathura, Uttar Pradesh - 281001",
+    subtitle: "Mathura, Uttar Pradesh - 281001",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://www.google.com/maps/@27.4958739,77.6760804,20z",
   },
