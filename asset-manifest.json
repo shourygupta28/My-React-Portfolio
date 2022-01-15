@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-React-Portfolio/static/css/main.c0b4389c.css",
-    "main.js": "/My-React-Portfolio/static/js/main.1b89128f.js",
+    "main.js": "/My-React-Portfolio/static/js/main.044c9c25.js",
     "static/media/portfolio.gif": "/My-React-Portfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/My-React-Portfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/My-React-Portfolio/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -71,10 +71,10 @@
     "static/media/talksCardBack.svg": "/My-React-Portfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "static/media/browserconfig.xml": "/My-React-Portfolio/static/media/browserconfig.fbdd071bdb27bd01d466.xml",
     "main.c0b4389c.css.map": "/My-React-Portfolio/static/css/main.c0b4389c.css.map",
-    "main.1b89128f.js.map": "/My-React-Portfolio/static/js/main.1b89128f.js.map"
+    "main.044c9c25.js.map": "/My-React-Portfolio/static/js/main.044c9c25.js.map"
   },
   "entrypoints": [
     "static/css/main.c0b4389c.css",
-    "static/js/main.1b89128f.js"
+    "static/js/main.044c9c25.js"
   ]
 }
